@@ -1,0 +1,3 @@
+[submodule "Adaptive-Huffman"]
+	path = Adaptive-Huffman
+	url = https://github.com/moustafa-mk/Adaptive-Huffman.git
