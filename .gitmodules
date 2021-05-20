@@ -1,3 +1,6 @@
 [submodule "Adaptive-Huffman"]
 	path = Adaptive-Huffman
 	url = https://github.com/moustafa-mk/Adaptive-Huffman.git
+[submodule "LZW-Compression"]
+	path = LZW-Compression
+	url = https://github.com/moustafa-mk/LZW-Compression.git
