@@ -4,3 +4,6 @@
 [submodule "LZW-Compression"]
 	path = LZW-Compression
 	url = https://github.com/moustafa-mk/LZW-Compression.git
+[submodule "Vector-Quantization"]
+	path = Vector-Quantization
+	url = https://github.com/moustafa-mk/Vector-Quantization.git
